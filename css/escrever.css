@@ -1,0 +1,22 @@
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.cartao {
+    width: 600px;
+    height: 400px;
+}
+
+h3 {
+    margin-top: 100px;
+}
